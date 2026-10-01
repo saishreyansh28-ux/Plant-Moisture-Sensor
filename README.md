@@ -1,3 +1,5 @@
 # Plant-Moisture-Sensor
 A sensor that monitors plants soil moisture levels
-![IMG_5841](https://github.com/user-attachments/assets/c6ddbb9a-9a49-49f9-867c-3af296223d55)
+* You can see the moisture in the plant in percentages
+* I used an OLED screen, Plant Moisture Sensor and a Arduino Uno
+In my code replace the A0, and D2 with whatever pins your device is connected with
